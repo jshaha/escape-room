@@ -9,7 +9,7 @@ body {
 #content {
     border: 2px solid red;
     padding: 20px;
-    background-image: url('dungeon.jpeg'); /* Updated to reference your image */
+    background-image: url('global.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/8/9/8/8988e08dba054246b812503f8d3d627509b09ade.jpeg'); /* Updated to reference your image */
     background-size: cover;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
