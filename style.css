@@ -3,15 +3,22 @@ body {
     color: red;
     font-family: 'Garamond', serif;
     text-align: center;
-    padding: 50px;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('global.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/8/9/8/8988e08dba054246b812503f8d3d627509b09ade.jpeg'); /* Background image for the entire body */
+    background-size: cover; /* Ensure it covers the entire body */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent repeating the image */
 }
 
 #content {
     border: 2px solid red;
     padding: 20px;
-    background-image: url('global.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/8/9/8/8988e08dba054246b812503f8d3d627509b09ade.jpeg'); /* Updated to reference your image */
-    background-size: cover;
+    margin-top: 50px; /* Adjust as needed for layout */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
+    display: inline-block;
 }
 
 h1 {
