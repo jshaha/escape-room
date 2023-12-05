@@ -9,7 +9,7 @@ body {
 #content {
     border: 2px solid red;
     padding: 20px;
-    background-image: url('dungeon.jpg');
+    background-image: url('dungeon.jpeg'); /* Updated to reference your image */
     background-size: cover;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
