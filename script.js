@@ -1,6 +1,6 @@
 var teamMembers = {
-    "Team1": ["Alice", "Bob", "Charlie"],
-    "Team2": ["Diana", "Edward", "Fiona"]
+    "Team1": ["Riley", "Sophia", "Alexis" , "Kevin" , "Marshall" , "Brianna" , "Kelechi" "Mala"],
+    "Team2": ["Kamille", "Calvin", "Brooke" , "Amanda" , "Ana" , "Logan" , "Neda" , "Rushidi,]
 };
 
 function determineFate() {
