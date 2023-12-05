@@ -9,7 +9,7 @@ body {
 #content {
     border: 2px solid red;
     padding: 20px;
-    background-image: URL('background'); /* Replace with your dungeon background image URL */
+    background-image: URL('background.png'); /* Replace with your dungeon background image URL */
     background-size: cover;
 }
 
