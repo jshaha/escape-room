@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: red;
+    font-family: 'Garamond', serif;
+    text-align: center;
+    padding: 50px;
+}
+
+#content {
+    border: 2px solid red;
+    padding: 20px;
+    background-image: url('dungeon-background.jpg'); /* Replace with your dungeon background image URL */
+    background-size: cover;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
