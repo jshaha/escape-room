@@ -1,11 +1,17 @@
 function determineFate() {
-    var fate = Math.floor(Math.random() * 2) + 1; // Generates 1 or 2
+    var team = document.getElementById('teamSelect').value;
+    if (!team) {
+        alert('Please select a team.');
+        return;
+    }
+
+    var fate = Math.floor(Math.random() * 2) + 1;
     var resultText = "";
 
     if (fate === 1) {
-        resultText = "Congratulations, You've Escaped!";
+        resultText = "Congratulations, " + team + ", You've Escaped!";
     } else {
-        resultText = "Alas, You Have Perished in Elsinore.";
+        resultText = "Alas, " + team + ", You Have Perished in Elsinore.";
     }
 
     document.getElementById('result').innerText = resultText;
