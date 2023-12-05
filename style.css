@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-image: url('global.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/8/9/8/8988e08dba054246b812503f8d3d627509b09ade.jpeg'); /* Background image for the entire body */
+    background-image: url('https://global.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/8/9/8/8988e08dba054246b812503f8d3d627509b09ade.jpeg'); /* Background image for the entire body */
     background-size: cover; /* Ensure it covers the entire body */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repeating the image */
