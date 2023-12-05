@@ -1,5 +1,5 @@
 var teamMembers = {
-    "Team1": ["Riley", "Sophia", "Alexis" , "Kevin" , "Marshall" , "Brianna" , "Kelechi" "Mala"],
+    "Team1": ["Riley", "Sophia", "Alexis" , "Kevin" , "Marshall" , "Brianna" , "Kelechi" , "Mala"]
     "Team2": ["Kamille", "Calvin", "Brooke" , "Amanda" , "Ana" , "Logan" , "Neda" , "Rushidi",]
 };
 
